@@ -17,7 +17,7 @@
   "bin": "./bin/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stephen/airsonos.git"
+    "url": "https://github.com/drzef/airsonos.git"
   },
   "dependencies": {
     "babel": "^5.8.21",
@@ -25,8 +25,8 @@
     "flags": "~0.1.2",
     "ip": "1.1.0",
     "nicercast": "0.1.0",
-    "nodetunes": "^0.3.0",
-    "sonos": "git://github.com/stephen/node-sonos.git#stephen-1.0.0"
+    "nodetunes": "git://github.com/drzef/nodetunes.git#master",
+    "sonos": "0.15.0"
   },
   "license": "MIT",
   "devDependencies": {
